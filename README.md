@@ -32,12 +32,12 @@ cd notify-me
 ### Install the required packages:
 pip install -r requirements.txt
 ### Set up your .env file with the necessary credentials:
-DISCORD_BOT_TOKEN=your_discord_bot_token
-TWILIO_ACCOUNT_SID=your_twilio_account_sid
-TWILIO_AUTH_TOKEN=your_twilio_auth_token
-TWILIO_MESSAGING_SERVICE_SID=your_twilio_messaging_service_sid
-USER_PHONE_NUMBER=your_phone_number
-YOUR_DISCORD_USER_ID=your_discord_user_id
+#### DISCORD_BOT_TOKEN=your_discord_bot_token
+#### TWILIO_ACCOUNT_SID=your_twilio_account_sid
+#### TWILIO_AUTH_TOKEN=your_twilio_auth_token
+#### TWILIO_MESSAGING_SERVICE_SID=your_twilio_messaging_service_sid
+#### USER_PHONE_NUMBER=your_phone_number
+#### YOUR_DISCORD_USER_ID=your_discord_user_id
 ### Running the Bot
 To run the bot, execute:
 python main.py
