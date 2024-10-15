@@ -2,6 +2,9 @@
 ## Project Overview
 ### This project implements a Discord bot that sends SMS notifications when you are mentioned in a server while offline. Leveraging the Discord API and Twilio's SMS service, this bot enhances communication by ensuring that important messages reach you even when you're not actively online.
 
+## Project Demo
+![demo](https://github.com/user-attachments/assets/77dd60af-9bca-4fca-8e69-b1369b94fd6e)
+
 ## Features
 ### Mention Detection: 
 The bot listens for messages in Discord servers and checks if you are mentioned or if the @everyone tag is used.
